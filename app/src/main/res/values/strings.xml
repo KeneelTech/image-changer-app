@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Changer</string>
+    <string name="congrats_you_ve_reach_the_end">Congrats you\'ve reach the end</string>
+    <string name="click_the_star_to_change_the_image">Click the STAR to change the image</string>
+</resources>
